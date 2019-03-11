@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  MFC计算器Dlg.cpp
+e:\calculator\mfc计算器\mfc计算器\mfc计算器dlg.cpp(384): warning C4244: “参数”: 从“wchar_t”转换到“char”，可能丢失数据
+  MFC计算器.cpp
+  正在生成代码...
+e:\calculator\mfc计算器\mfc计算器\mfc计算器dlg.cpp(564): warning C4715: “priorityRank”: 不是所有的控件路径都返回值
+  MFC计算器.vcxproj -> E:\Calculator\MFC计算器\Debug\MFC计算器.exe
